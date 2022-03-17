@@ -1,0 +1,9 @@
+{
+	"name": "adftestcoursera",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d2abcfe5-379a-4a80-aa01-b175b10944c9",
+		"tenantId": "0c5652f8-6b4a-41a8-b841-a1161694121b"
+	}
+}
